@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: A propos 
+permalink: /a-propos/
 ---
 
-Some information about you!
+A propos de l'auteur de ce site
+=====================
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Ce site à pour seul objectif de faire du backlinks pour faire monter différents mots-clés.
